@@ -1,0 +1,15 @@
+.container {
+    max-width: 100%;
+}
+
+.col-md-9,
+.col-lg-8 {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+.masthead .site-heading h1,
+.masthead .site-heading .subheading {
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
